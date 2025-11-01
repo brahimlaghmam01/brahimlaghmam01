@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hi, I'm Brahim Laghmam</h1>
 
 <p align="center">
-  <em>Full Stack Developer | Passionate about Web Technologies & Digital Innovation</em><br>
-  <strong>Building impactful digital experiences using TypeScript, PHP, and modern frameworks.</strong>
+  <em>Junior Full Stack Developer | Passionate about Web Technologies & Digital Innovation</em><br>
+  <strong>Building impactful digital experiences with TypeScript, PHP & modern frameworks</strong>
 </p>
 
 ---
 
 ### 🌍 About Me
 
-I'm **Brahim Laghmam**, a Junior Full Stack Developer from **Morocco**, specialized in building dynamic and responsive web applications.  
-I’m deeply passionate about **technology, design, and sustainability**, and I enjoy transforming ideas into user-friendly solutions that make a difference.
+I'm **Brahim Laghmam**, a Junior Full Stack Developer from **Morocco**, focused on creating **dynamic, responsive, and user-friendly web applications**.  
+I am passionate about **technology, design, and sustainability**, and I enjoy transforming ideas into practical digital solutions that make a difference.
 
 ---
 
@@ -25,6 +25,9 @@ I’m deeply passionate about **technology, design, and sustainability**, and I 
   </a>
   <a href="https://github.com/brahimlaghmam01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-omega-kohl-50.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300C8FF?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -50,10 +53,11 @@ I’m deeply passionate about **technology, design, and sustainability**, and I 
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 [**HealthBot**](https://github.com/brahimlaghmam01/healthbot) | AI-powered healthcare assistant that detects symptoms and provides personalized recommendations. | PHP, Tailwind, JS |
-| 💼 [**SawbLi**](https://github.com/brahimlaghmam01/SawbLi) | Freelancing platform connecting clients and freelancers specialized in programming & marketing. | PHP, MySQL, Tailwind |
-| 🌱 [**Zero Gaspillage**]() | Eco-friendly web app that helps reduce food waste through smart data and community collaboration. | TypeScript, Vue, Vite |
-| 🏕 [**CampManager.ma**]() | Platform to manage associations, camps, and animators with role-based dashboards. | PHP, MySQL |
+| 🧠 [**HealthBot**](https://github.com/brahimlaghmam01/healthbot) | AI-powered healthcare assistant that detects symptoms & provides personalized recommendations. | PHP, Tailwind, JS |
+| 💼 [**SawbLi**](https://github.com/brahimlaghmam01/SawbLi) | Freelancing platform connecting clients & freelancers in programming & marketing. | PHP, MySQL, Tailwind |
+| 🌱 [**Zero Gaspillage**](https://github.com/brahimlaghmam01/Zero-Gaspillage) | Eco-friendly web app to reduce food waste through smart data & community collaboration. | TypeScript, Vue, Vite |
+| 🏕 [**CampManager.ma**](https://github.com/brahimlaghmam01/CampManager.ma) | Platform to manage associations, camps, & animators with role-based dashboards. | PHP, MySQL |
+| 🌐 [**My Portfolio**](https://portfolio-omega-kohl-50.vercel.app/) | Showcase of my projects, skills, and professional journey. | TypeScript, Vue, Tailwind |
 
 ---
 
