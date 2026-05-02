@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Brahim Laghmam</h1>
 
 <p align="center">
-  <em>Junior Full Stack Developer | Passionate about Web Technologies & Digital Innovation</em><br>
+  <em>Senior Full Stack Developer | Passionate about Web Technologies & Digital Innovation</em><br>
   <strong>Building impactful digital experiences with TypeScript, PHP & modern frameworks</strong>
 </p>
 
