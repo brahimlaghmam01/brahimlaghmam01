@@ -9,7 +9,7 @@
 
 ### 🌍 About Me
 
-I'm **Brahim Laghmam**, a Junior Full Stack Developer from **Morocco**, focused on creating **dynamic, responsive, and user-friendly web applications**.  
+I'm **Brahim Laghmam**, a Senior Full Stack Developer from **Morocco**, focused on creating **dynamic, responsive, and user-friendly web applications**.  
 I am passionate about **technology, design, and sustainability**, and I enjoy transforming ideas into practical digital solutions that make a difference.
 
 ---
